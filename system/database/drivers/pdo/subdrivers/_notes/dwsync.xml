@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="index.html" server="45.78.27.91" local="131559573647002365" remote="131423347800000000" Dst="0" />
+<file name="pdo_4d_driver.php" server="45.78.27.91" local="131559573656596837" remote="131423347800000000" Dst="0" />
+<file name="pdo_4d_forge.php" server="45.78.27.91" local="131559573657007194" remote="131423347800000000" Dst="0" />
+<file name="pdo_cubrid_driver.php" server="45.78.27.91" local="131559573665875332" remote="131423347800000000" Dst="0" />
+<file name="pdo_cubrid_forge.php" server="45.78.27.91" local="131559573668550709" remote="131423347800000000" Dst="0" />
+<file name="pdo_dblib_driver.php" server="45.78.27.91" local="131559573675043685" remote="131423347800000000" Dst="0" />
+<file name="pdo_dblib_forge.php" server="45.78.27.91" local="131559573679671861" remote="131423347800000000" Dst="0" />
+<file name="pdo_firebird_driver.php" server="45.78.27.91" local="131559573686170337" remote="131423347800000000" Dst="0" />
+<file name="pdo_firebird_forge.php" server="45.78.27.91" local="131559573690699522" remote="131423347800000000" Dst="0" />
+<file name="pdo_ibm_driver.php" server="45.78.27.91" local="131559573697396447" remote="131423347800000000" Dst="0" />
+<file name="pdo_ibm_forge.php" server="45.78.27.91" local="131559573701778661" remote="131423347800000000" Dst="0" />
+<file name="pdo_informix_driver.php" server="45.78.27.91" local="131559573708342239" remote="131423347800000000" Dst="0" />
+<file name="pdo_informix_forge.php" server="45.78.27.91" local="131559573713263418" remote="131423347800000000" Dst="0" />
+<file name="pdo_mysql_driver.php" server="45.78.27.91" local="131559573717678179" remote="131423347800000000" Dst="0" />
+<file name="pdo_mysql_forge.php" server="45.78.27.91" local="131559573724584339" remote="131423347800000000" Dst="0" />
+<file name="pdo_oci_driver.php" server="45.78.27.91" local="131559573726705375" remote="131423347800000000" Dst="0" />
+<file name="pdo_odbc_driver.php" server="45.78.27.91" local="131559573735635984" remote="131423347800000000" Dst="0" />
+<file name="pdo_oci_forge.php" server="45.78.27.91" local="131559573735948128" remote="131423347800000000" Dst="0" />
+<file name="pdo_odbc_forge.php" server="45.78.27.91" local="131559573744867398" remote="131423347800000000" Dst="0" />
+<file name="pdo_pgsql_driver.php" server="45.78.27.91" local="131559573745336184" remote="131423347800000000" Dst="0" />
+<file name="pdo_pgsql_forge.php" server="45.78.27.91" local="131559573754180621" remote="131423347800000000" Dst="0" />
+<file name="pdo_sqlite_driver.php" server="45.78.27.91" local="131559573756762379" remote="131423347800000000" Dst="0" />
+<file name="pdo_sqlite_forge.php" server="45.78.27.91" local="131559573763413844" remote="131423347800000000" Dst="0" />
+<file name="pdo_sqlsrv_driver.php" server="45.78.27.91" local="131559573767857640" remote="131423347800000000" Dst="0" />
+<file name="pdo_sqlsrv_forge.php" server="45.78.27.91" local="131559573774494626" remote="131423347800000000" Dst="0" />
+</dwsync>
